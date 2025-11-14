@@ -1,4 +1,4 @@
-# 🎲 Random Number Generato
+# 🎲 Random Number Generator
 
 Este é um pequeno projeto em Python que solicita ao usuário um valor **mínimo** e um valor **máximo**, e então gera um número aleatório dentro desse intervalo.  
 O objetivo deste repositório é demonstrar como executar um script **interativo** dentro de um container Docker.
